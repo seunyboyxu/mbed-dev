@@ -1,0 +1,8 @@
+{
+  "name": "framework-mbed-classic",
+  "version": "1.0.0",
+  "description": "Mbed classic framework for PlatformIO",
+  "keywords": ["framework", "mbed"],
+  "platforms": ["ststm32"],
+  "frameworks": ["mbed"]
+}
